@@ -8,10 +8,12 @@ main{
 
 	width: 90%;
 	margin-left: 5%;
+	height:500px;
 	background-color: #cac4b0
 
 }
 main div {
+	height:500px;
 	width: 90%;
 	margin-left: 5%;
 
