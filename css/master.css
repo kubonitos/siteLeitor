@@ -1,0 +1,23 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+main{
+
+	width: 90%;
+	margin-left: 5%;
+	background-color: #cac4b0
+
+}
+main div {
+	width: 90%;
+	margin-left: 5%;
+
+
+}
+#cap{
+
+	width: 100%;
+}
