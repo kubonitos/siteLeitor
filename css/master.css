@@ -4,22 +4,56 @@
 	padding:0;
 	font-family: sans-serif;
 }
+body{
+	color:red;
+
+}
+/* header */
+header{
+	background-color: rgb(43, 40, 42);
+}
+#logo-header{
+	width: 3vw;
+
+}
+header ul{
+	float: right;
+	margin-top: -30px;
+	margin-right: 2vw;
+}
+.li-nav{
+	list-style: none;
+	
+}
+.link-nav{
+	text-decoration: none;
+	color: rgb(194, 147, 28);
+	margin-left: 2vw;
+}
+.link-nav:hover{
+	padding-bottom: 8px;
+	border-bottom: 2px solid white;
+}
+
+
+
 main{
 
 	width: 90%;
 	margin-left: 5%;
 	height:500px;
-	background-color: #cac4b0
-
+	background-color: #cac4b0;
+	color:red;
 }
 main div {
 	height:500px;
 	width: 90%;
 	margin-left: 5%;
-
+	color:red;
 
 }
 #cap{
 	height:500px;
 	width: 100%;
+	color:blue;
 }
